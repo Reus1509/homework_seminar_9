@@ -4,6 +4,7 @@
 // N = 5 -> "4, 2"
 // N = 8 -> "8, 6, 4, 2,"
 
+
 void Main()
 {
     Console.Clear();
