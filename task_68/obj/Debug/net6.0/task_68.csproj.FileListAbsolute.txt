@@ -1,0 +1,15 @@
+C:\Users\СмартАптека\Desktop\hw_9\task_68\bin\Debug\net6.0\task_68.exe
+C:\Users\СмартАптека\Desktop\hw_9\task_68\bin\Debug\net6.0\task_68.deps.json
+C:\Users\СмартАптека\Desktop\hw_9\task_68\bin\Debug\net6.0\task_68.runtimeconfig.json
+C:\Users\СмартАптека\Desktop\hw_9\task_68\bin\Debug\net6.0\task_68.dll
+C:\Users\СмартАптека\Desktop\hw_9\task_68\bin\Debug\net6.0\task_68.pdb
+C:\Users\СмартАптека\Desktop\hw_9\task_68\obj\Debug\net6.0\task_68.csproj.AssemblyReference.cache
+C:\Users\СмартАптека\Desktop\hw_9\task_68\obj\Debug\net6.0\task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СмартАптека\Desktop\hw_9\task_68\obj\Debug\net6.0\task_68.AssemblyInfoInputs.cache
+C:\Users\СмартАптека\Desktop\hw_9\task_68\obj\Debug\net6.0\task_68.AssemblyInfo.cs
+C:\Users\СмартАптека\Desktop\hw_9\task_68\obj\Debug\net6.0\task_68.csproj.CoreCompileInputs.cache
+C:\Users\СмартАптека\Desktop\hw_9\task_68\obj\Debug\net6.0\task_68.dll
+C:\Users\СмартАптека\Desktop\hw_9\task_68\obj\Debug\net6.0\refint\task_68.dll
+C:\Users\СмартАптека\Desktop\hw_9\task_68\obj\Debug\net6.0\task_68.pdb
+C:\Users\СмартАптека\Desktop\hw_9\task_68\obj\Debug\net6.0\task_68.genruntimeconfig.cache
+C:\Users\СмартАптека\Desktop\hw_9\task_68\obj\Debug\net6.0\ref\task_68.dll
